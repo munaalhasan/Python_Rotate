@@ -1,6 +1,6 @@
 # Python_Rotate
 
-Rotate this ascii
+Rotate this ascii using Python
 
 
   ##########
